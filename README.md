@@ -4,7 +4,6 @@
 
 ## Usage: 
 1. Navigate to the repo: 
-
 2. run the following command: 
 ```
    - npm install or yarn install
