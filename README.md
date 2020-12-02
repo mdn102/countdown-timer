@@ -6,6 +6,7 @@
 1. Navigate to the repo: 
 
 2. run the following command: 
-   a. npm install or yarn install
-   b. npm start or yarn start
-
+```
+   - npm install or yarn install
+   - npm start or yarn start
+```
